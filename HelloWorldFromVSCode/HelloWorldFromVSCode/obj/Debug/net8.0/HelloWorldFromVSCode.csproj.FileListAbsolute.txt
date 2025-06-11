@@ -1,0 +1,15 @@
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/bin/Debug/net8.0/HelloWorldFromVSCode
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/bin/Debug/net8.0/HelloWorldFromVSCode.deps.json
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/bin/Debug/net8.0/HelloWorldFromVSCode.runtimeconfig.json
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/bin/Debug/net8.0/HelloWorldFromVSCode.dll
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/bin/Debug/net8.0/HelloWorldFromVSCode.pdb
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.AssemblyInfoInputs.cache
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.AssemblyInfo.cs
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.csproj.CoreCompileInputs.cache
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.sourcelink.json
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.dll
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/refint/HelloWorldFromVSCode.dll
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.pdb
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/HelloWorldFromVSCode.genruntimeconfig.cache
+/Users/calebouedraogo/learning_csharp/HelloWorldFromVSCode/HelloWorldFromVSCode/obj/Debug/net8.0/ref/HelloWorldFromVSCode.dll
