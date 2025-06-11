@@ -1,0 +1,15 @@
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/bin/Debug/net8.0/HelloWorldFromCLI
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/bin/Debug/net8.0/HelloWorldFromCLI.deps.json
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/bin/Debug/net8.0/HelloWorldFromCLI.runtimeconfig.json
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/bin/Debug/net8.0/HelloWorldFromCLI.dll
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/bin/Debug/net8.0/HelloWorldFromCLI.pdb
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.AssemblyInfoInputs.cache
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.AssemblyInfo.cs
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.csproj.CoreCompileInputs.cache
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.sourcelink.json
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.dll
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/refint/HelloWorldFromCLI.dll
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.pdb
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/HelloWorldFromCLI.genruntimeconfig.cache
+/Users/calebouedraogo/learning_csharp/HelloWorldFromCLI/obj/Debug/net8.0/ref/HelloWorldFromCLI.dll
